@@ -7,6 +7,7 @@ System.out.println("holaaaaa");
 		
 System.out.println("adios");
 //Comprobando comunicacion.....
+System.out.println("adios2222");
 	}
 
 }
