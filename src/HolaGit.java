@@ -6,6 +6,7 @@ public class HolaGit {
 System.out.println("holaaaaa");
 		
 System.out.println("adios desde el repositorio LOCAL !!!");
+		System.out.println("modificamos desde github !!!");
 //Comprobando comunicacion.....
 System.out.println("adios2222");
 	}
