@@ -5,7 +5,7 @@ public class HolaGit {
 		// TODO Auto-generated method stub
 System.out.println("holaaaaa");
 		
-System.out.println("adios");
+System.out.println("adios desde el repositorio LOCAL !!!");
 //Comprobando comunicacion.....
 System.out.println("adios2222");
 	}
